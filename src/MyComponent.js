@@ -17,6 +17,7 @@ const MyComponent = (props) => {
 
 MyComponent.defaultProps = {
   name: "기본 이름",
+  children: "성성"
 };
 
 export default MyComponent;
